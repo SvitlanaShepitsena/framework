@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e856633-9481-473a-abc6-b910f7bc2f02" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/framework_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/core-components/famous-tests/physics/basic/spring/spring.js" afterPath="$PROJECT_DIR$/lib/core-components/famous-tests/physics/basic/spring/spring.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/core-components/svitlana/radio/radio.js" afterPath="$PROJECT_DIR$/lib/core-components/svitlana/radio/radio.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/core-components/svitlana/radio/tree.html" afterPath="$PROJECT_DIR$/lib/core-components/svitlana/radio/tree.html" />
     </list>
     <ignored path="framework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,27 +30,47 @@
         <entry file="file://$PROJECT_DIR$/lib/core-components/famous-tests/physics/basic/spring/spring.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="radio.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="radio.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/core-components/svitlana/radio/radio.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5206125">
-              <caret line="323" column="0" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding>
-                <marker date="1439131708834" expanded="true" signature="1169:1217" placeholder="..." />
-                <marker date="1439131708834" expanded="true" signature="3208:3221" placeholder="..." />
-                <marker date="1439131708834" expanded="true" signature="3717:3730" placeholder="..." />
-                <marker date="1439131708834" expanded="true" signature="6474:6487" placeholder="..." />
-                <marker date="1439131708834" expanded="true" signature="6991:7004" placeholder="..." />
-                <marker date="1439131708834" expanded="true" signature="7436:7506" placeholder="..." />
-                <marker date="1439131708834" expanded="true" signature="8283:8354" placeholder="..." />
-                <marker date="1439131708834" expanded="true" signature="10118:10132" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="1367:1415" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="3192:3205" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="3701:3714" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="5555:5568" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="6072:6085" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="6517:6587" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="7364:7435" placeholder="..." />
+                <marker date="1439140621059" expanded="true" signature="9199:9213" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1824687">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/core-components/svitlana/radio/tree.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,7 +84,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/core-components/famous-tests/physics/basic/spring/spring.js" />
+        <option value="$PROJECT_DIR$/lib/core-components/svitlana/radio/tree.html" />
         <option value="$PROJECT_DIR$/lib/core-components/svitlana/radio/radio.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -119,20 +141,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -142,6 +150,52 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -169,7 +223,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291714" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -212,25 +266,41 @@
     <entry file="file://$PROJECT_DIR$/lib/core-components/famous-tests/physics/basic/spring/spring.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core-components/svitlana/radio/tree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/core-components/svitlana/radio/radio.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5206125">
-          <caret line="323" column="0" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
-            <marker date="1439131708834" expanded="true" signature="1169:1217" placeholder="..." />
-            <marker date="1439131708834" expanded="true" signature="3208:3221" placeholder="..." />
-            <marker date="1439131708834" expanded="true" signature="3717:3730" placeholder="..." />
-            <marker date="1439131708834" expanded="true" signature="6474:6487" placeholder="..." />
-            <marker date="1439131708834" expanded="true" signature="6991:7004" placeholder="..." />
-            <marker date="1439131708834" expanded="true" signature="7436:7506" placeholder="..." />
-            <marker date="1439131708834" expanded="true" signature="8283:8354" placeholder="..." />
-            <marker date="1439131708834" expanded="true" signature="10118:10132" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="1367:1415" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="3192:3205" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="3701:3714" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="5555:5568" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="6072:6085" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="6517:6587" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="7364:7435" placeholder="..." />
+            <marker date="1439140621059" expanded="true" signature="9199:9213" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1824687">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
