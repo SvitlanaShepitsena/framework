@@ -1,7 +1,9 @@
 /* container specific rules */
 html, body {
-    background: #444444;
     font-family: 'Lato', Helvetica, Arial, sans-serif;
+    height: 300px;
+    width:250px;
+    overflow: hidden;
 }
 
 body.show-navigation #famous-framework-stage {
@@ -29,7 +31,7 @@ body.show-search #famous-framework-components-search {
     display: block;
     width: 100%;
     height: 100%;
-    overflow: scroll;
+    /*overflow: scroll;*/
 }
 
 #famous-framework-components-search {
