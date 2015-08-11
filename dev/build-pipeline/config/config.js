@@ -30,7 +30,7 @@ var options = {
             'compositionupdate', 'dblclick', 'focus', 'focusin', 'focusout', 'input',
             'keydown', 'keyup', 'mousedown', 'mouseenter', 'mouseleave', 'mousemove', 'mouseout',
             'mouseover', 'mouseup', 'scroll', 'select', 'wheel', 'touchcancel',
-            'touchend', 'touchmove ', 'touchstart',
+            'touchend', 'touchmove', 'touchstart',
             // Gestures
             'drag', 'tap', 'pinch', 'rotate',
             // Size Events
