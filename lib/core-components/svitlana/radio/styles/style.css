@@ -7,20 +7,13 @@ html, body {
 body {
     position: absolute
     -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
     -webkit-font-smoothing: antialiased;
     -webkit-tap-highlight-color: transparent;
     background-color: lightgrey;
-    -webkit-perspective: 0;
+    -webkit-perspective: 100px;
+    -moz-perspective: 100px;
     perspective: 100px;
-    overflow: hidden;
 }
 
-#iframe {
-    border: none;
-    width: 250px;
-    height: 300px;
-    overflow: hidden;
-    padding: 0;
-    margin: 0;
-}
