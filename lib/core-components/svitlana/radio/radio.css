@@ -1,0 +1,9 @@
+iframe, object, embed {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#player-unavailable {
+    max-width: 100%;
+    max-height: 100%;
+}
