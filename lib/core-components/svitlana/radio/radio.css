@@ -17,6 +17,18 @@ iframe, object, embed {
     overflow: -moz-scrollbars-none;
 }
 
+h4 {
+    margin-top: 8px !important;
+    font-weight: 500;
+}
+
+/**********************
+ =lumx sizes
+***********************/
+.mt {
+    margin-top: 4px;
+}
+
 /**********************
  =lumx typography styles
 ***********************/
