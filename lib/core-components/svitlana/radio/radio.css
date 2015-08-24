@@ -17,3 +17,54 @@ iframe, object, embed {
     overflow: -moz-scrollbars-none;
 }
 
+/**********************
+ =lumx typography styles
+***********************/
+.display-block {
+    display: block;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.fs-display-4 {
+    font-size: 112px;
+}
+
+.fs-display-3 {
+    font-size: 56px;
+}
+
+.fs-display-2 {
+    font-size: 45px;
+}
+
+.fs-display-1 {
+    font-size: 34px;
+}
+
+.fs-headline {
+    font-size: 24px;
+}
+
+.fs-title {
+    font-size: 20px;
+}
+
+.fs-subhead {
+    font-size: 15px;
+}
+
+.fs-body-2 {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.fs-body-1 {
+    font-size: 13px;
+}
+
+.fs-caption {
+    font-size: 12px;
+}
