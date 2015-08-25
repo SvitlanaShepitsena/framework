@@ -81,3 +81,48 @@ h4 {
 .fs-caption {
     font-size: 12px;
 }
+
+/**********************
+ =program ad
+***********************/
+.guestName {
+    color: #EF5350;
+    font-weight: 500;
+}
+
+.guestAdIcon {
+    margin-right: 2px;
+    display: inline-block;
+    width: 15px;
+}
+
+.guestCardLink {
+    text-decoration: none;
+}
+
+.guestTextContainer {
+    height: 15px;
+    margin-top: 4px;
+}
+
+.guestWebTitle {
+    color: steelblue;
+    text-decoration: underline;
+    vertical-align: top !important;
+    height: 14px !important;
+    line-height: 15px !important;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.guestPhone {
+    color: #292929;
+    text-decoration: none;
+    vertical-align: top !important;
+    height: 14px !important;
+    line-height: 15px !important;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+}
