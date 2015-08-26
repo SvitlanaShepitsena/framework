@@ -1,7 +1,7 @@
 /* container specific rules */
 html, body {
-    background: #444444;
     font-family: 'Lato', Helvetica, Arial, sans-serif;
+    overflow: hidden;
 }
 
 body.show-navigation #famous-framework-stage {
@@ -29,7 +29,7 @@ body.show-search #famous-framework-components-search {
     display: block;
     width: 100%;
     height: 100%;
-    overflow: scroll;
+    /*overflow: scroll;*/
 }
 
 #famous-framework-components-search {
@@ -88,6 +88,7 @@ body.show-search #famous-framework-components-search {
     height: 52px;
     line-height: 50px;
 }
+
 #famous-framework-components-search > form > input,
 #famous-framework-components-search > form > ul > li {
     text-indent: 60px;
@@ -121,6 +122,7 @@ body.show-search #famous-framework-components-search {
 #famous-framework-components-search > form > input:focus {
     outline: none;
 }
+
 #famous-framework-components-search > button,
 #famous-framework-components-search > form > ul {
     cursor: pointer;
@@ -132,12 +134,14 @@ body.show-search #famous-framework-components-search {
     background: url(search-icon.svg) no-repeat top left;
     background-size: 50px 50px;
 }
+
 #famous-framework-components-search > button.famous-framework-components-search-dropdown {
     background: transparent;
     right: 0;
     -webkit-transform: translateY(-100px);
     transform: translateY(-100px);
 }
+
 #famous-framework-components-search > button.famous-framework-components-search-dropdown:before {
     background: none;
     border-left: 20px solid transparent;
@@ -151,10 +155,12 @@ body.show-search #famous-framework-components-search {
     transition: transform ease-out 200ms;
     width: 0;
 }
+
 #famous-framework-components-search.expanded > button.famous-framework-components-search-dropdown:before {
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
 }
+
 #famous-framework-components-search.active > button.famous-framework-components-search-dropdown {
     -webkit-transform: translateY(0px);
     transform: translateY(0px);
