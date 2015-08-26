@@ -2,6 +2,7 @@
 html, body {
     font-family: 'Lato', Helvetica, Arial, sans-serif;
     overflow: hidden;
+    -webkit-font-smoothing: subpixel-antialiased;
 }
 
 body.show-navigation #famous-framework-stage {
