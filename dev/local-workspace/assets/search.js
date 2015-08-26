@@ -6,7 +6,7 @@
 
     var SAFE_NAMESPACE_DELIMITER = '~';
     var COMPONENT_DELIMITER = ':';
-    var DEFAULT_MODULE = 'famous-demos:clickable-square';
+    var DEFAULT_MODULE = 'svitlana:radio';
 
     function updateCurrentModule(name, pushState) {
         var delimitedSafe = name.split(COMPONENT_DELIMITER).join(SAFE_NAMESPACE_DELIMITER);

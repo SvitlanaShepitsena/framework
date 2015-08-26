@@ -25,7 +25,7 @@
     "jsdom": "./dev/build-pipeline/shims/jsdom.js"
   },
   "scripts": {
-    "dev": "node bin/famous-framework.js local-only-bootstrap --sourceFolder=lib/core-components --destinationFolder=dev/local-workspace/build --servedFolder=dev/local-workspace --port=1618",
+    "dev": "node bin/famous-framework.js local-only-bootstrap --sourceFolder=lib/core-components --destinationFolder=dev/local-workspace/build --servedFolder=dev/local-workspace --port=80",
     "browserify-build-pipeline": "browserify dev/build-pipeline/index.js -t brfs",
     "test-build-pipeline": "node test/build-pipeline/index.spec.js",
     "test-runtime": "browserify test/runtime-tests/**/*.spec.js | tap-closer | smokestack",

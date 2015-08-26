@@ -1,0 +1,149 @@
+iframe, object, embed {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#player-unavailable {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.sv-no-scroll::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+.sv-no-scroll {
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+}
+
+h4 {
+    margin-top: 8px !important;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+/**********************
+ =lumx sizes
+***********************/
+.mt {
+    margin-top: 4px;
+}
+
+/**********************
+ =lumx typography styles
+***********************/
+.display-block {
+    display: block;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.fs-display-4 {
+    font-size: 112px;
+}
+
+.fs-display-3 {
+    font-size: 56px;
+}
+
+.fs-display-2 {
+    font-size: 45px;
+}
+
+.fs-display-1 {
+    font-size: 34px;
+}
+
+.fs-headline {
+    font-size: 24px;
+}
+
+.fs-title {
+    font-size: 20px;
+}
+
+.fs-subhead {
+    font-size: 15px;
+}
+
+.fs-body-2 {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.fs-body-1 {
+    font-size: 13px;
+}
+
+.fs-caption {
+    font-size: 12px;
+}
+
+/**********************
+ =youtube iframe styles
+***********************/
+.ytp-title-text {
+    padding-top: 5px !important;
+    display: inline-block;
+    line-height: 1.1;
+    vertical-align: top;
+    max-width: 100%;
+    margin-left: 4px
+}
+
+.ytp-title-extra-info .ytp-title-text {
+    margin-left: 0px !important
+}
+
+.ytp-big-mode .ytp-title-extra-info .ytp-title-text {
+    margin-left: 15px
+}
+
+/**********************
+ =program ad
+***********************/
+.guestName {
+    color: #EF5350;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.guestAdIcon {
+    margin-right: 3px;
+    display: inline-block;
+    width: 14px;
+}
+
+.guestCardLink {
+    text-decoration: none;
+}
+
+.guestTextContainer {
+    height: 15px;
+    margin-top: 5px;
+}
+
+.guestWebTitle {
+    color: steelblue;
+    text-decoration: underline;
+    vertical-align: top !important;
+    height: 14px !important;
+    line-height: 15px !important;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.guestPhone {
+    color: #292929;
+    text-decoration: none;
+    vertical-align: top !important;
+    height: 14px !important;
+    line-height: 15px !important;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+}
