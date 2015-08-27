@@ -107,6 +107,7 @@ h4 {
 ***********************/
 .guestName {
     color: #EF5350;
+    -webkit-font-smoothing: none;
     font-size: 13px;
     font-weight: 500;
 }
