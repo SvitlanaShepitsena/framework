@@ -103,6 +103,26 @@ h4 {
 }
 
 /**********************
+ =front
+***********************/
+.mb4 {
+    margin-bottom: 4px;
+}
+
+.h3Panel {
+    font-weight: 400;
+    margin-bottom: 0px;
+    margin-top: 4px;
+}
+
+.h4Panel {
+    font-weight: 400;
+    margin-bottom: 0px;
+    margin-top: 4px;
+    line-height: 18px;
+}
+
+/**********************
  =program ad
 ***********************/
 .guestName {
