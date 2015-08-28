@@ -3,6 +3,8 @@ html, body {
     font-family: 'Lato', Helvetica, Arial, sans-serif;
     overflow: hidden;
     -webkit-font-smoothing: subpixel-antialiased;
+    backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
 }
 
 body.show-navigation #famous-framework-stage {
