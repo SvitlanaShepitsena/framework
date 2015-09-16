@@ -41,11 +41,12 @@ LocalAssistant.DEFAULTS = {
     entrypointExtnames: { '.js': true },
 
     // These are only used by the project assistant itself
-    chokidarIgnored: /[\/\\]\./,    
+    chokidarIgnored: /[\/\\]\./,
     fileOptions: { encoding: 'utf8' },
     folderBlacklist: { 'node_modules': true, '.git': true },
     livereloadOptions: {
-        port: 35729,
+        //port: 35729,
+        port: 35749,
         exts: ['html','css','js','png','gif','jpg','coffee','less','json'],
         applyJSLive: false,
         applyCSSLive: false,

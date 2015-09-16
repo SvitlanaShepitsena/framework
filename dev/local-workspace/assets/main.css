@@ -29,7 +29,7 @@ body.show-search #famous-framework-components-search {
 #iframe {
     display: block;
     width: 100%;
-    min-height: 230px;
+    height: 100%;
     /*overflow: scroll;*/
 }
 
