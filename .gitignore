@@ -4,3 +4,4 @@ node_modules
 *.bundle.js
 .idea/*
 dev/local-workspace/build/*
+ngrok.exe
