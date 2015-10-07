@@ -46,7 +46,7 @@ LocalAssistant.DEFAULTS = {
     folderBlacklist: { 'node_modules': true, '.git': true },
     livereloadOptions: {
         //port: 35729,
-        //port: 35749,
+        port: 35749,
         exts: ['html','css','js','png','gif','jpg','coffee','less','json'],
         applyJSLive: false,
         applyCSSLive: false,
